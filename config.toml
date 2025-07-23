@@ -1,0 +1,7 @@
+# config.toml
+mode = "stealth"
+proxy = "path/to/proxies.txt"
+tor = true
+doh = true
+rotate = 30
+no_log = false
