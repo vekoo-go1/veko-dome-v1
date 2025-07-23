@@ -1,0 +1,3 @@
+# default_proxies.txt
+socks5h://127.0.0.1:9050
+socks5h://localhost:9050
